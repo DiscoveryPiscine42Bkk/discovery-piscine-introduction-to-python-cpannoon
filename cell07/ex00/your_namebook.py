@@ -9,7 +9,5 @@ persons = {
     "jean": "valjean",
     "grace": "hopper",
     "xavier": "niel",
-    "fifi": "brindacier"
-}
-
+    "fifi": "brindacier"}
 print(array_of_names(persons))
